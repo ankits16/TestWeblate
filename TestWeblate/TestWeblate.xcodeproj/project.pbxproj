@@ -26,6 +26,7 @@
 		BCFA271223D2B26A002DD197 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BCFA271A23D2B443002DD197 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/Main.strings; sourceTree = "<group>"; };
 		BCFA271B23D2B443002DD197 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		BCFA271D23D2BA85002DD197 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +156,7 @@
 			children = (
 				BCFA270B23D2B263002DD197 /* Base */,
 				BCFA271A23D2B443002DD197 /* hi */,
+				BCFA271D23D2BA85002DD197 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
