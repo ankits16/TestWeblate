@@ -27,6 +27,8 @@
 		BCFA271B23D2B443002DD197 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		BCFA271F23D2C10D002DD197 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/Main.strings; sourceTree = "<group>"; };
 		BCFA272223D2C12D002DD197 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		BCFA272323D2DF1F002DD197 /* fr-CA */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-CA"; path = "fr-CA.lproj/Main.strings"; sourceTree = "<group>"; };
+		BCFA272423D2DF1F002DD197 /* fr-CA */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-CA"; path = "fr-CA.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				en,
 				Base,
 				hi,
+				"fr-CA",
 			);
 			mainGroup = BCFA26F823D2B263002DD197;
 			productRefGroup = BCFA270223D2B263002DD197 /* Products */;
@@ -157,6 +160,7 @@
 				BCFA270B23D2B263002DD197 /* Base */,
 				BCFA271F23D2C10D002DD197 /* hi */,
 				BCFA272223D2C12D002DD197 /* en */,
+				BCFA272323D2DF1F002DD197 /* fr-CA */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -166,6 +170,7 @@
 			children = (
 				BCFA271023D2B26A002DD197 /* Base */,
 				BCFA271B23D2B443002DD197 /* hi */,
+				BCFA272423D2DF1F002DD197 /* fr-CA */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
