@@ -1,4 +1,9 @@
+
 /* Class = "UIButton"; normalTitle = "World"; ObjectID = "Cx9-yQ-Pes"; */
-"Cx9-yQ-Pes.normalTitle" = "विश्व";
+"Cx9-yQ-Pes.normalTitle" = "World";
+
+/* Class = "UIButton"; normalTitle = "Updated"; ObjectID = "S9F-Mc-tcF"; */
+"S9F-Mc-tcF.normalTitle" = "Updated";
+
 /* Class = "UIButton"; normalTitle = "Hello"; ObjectID = "c7s-FH-Fgd"; */
-"c7s-FH-Fgd.normalTitle" = "हैलोऊ";
+"c7s-FH-Fgd.normalTitle" = "Hello";
