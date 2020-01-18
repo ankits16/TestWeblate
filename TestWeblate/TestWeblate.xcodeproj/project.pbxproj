@@ -33,9 +33,9 @@
 		BCFA274123D2E332002DD197 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/Main.strings; sourceTree = "<group>"; };
 		BCFA274323D2E36F002DD197 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		BCFA274523D2E372002DD197 /* fr-CA */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-CA"; path = "fr-CA.lproj/Main.strings"; sourceTree = "<group>"; };
-		BCFA274723D2EF5C002DD197 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/SeconfViewController.strings; sourceTree = "<group>"; };
-		BCFA274923D2EF6B002DD197 /* fr-CA */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-CA"; path = "fr-CA.lproj/SeconfViewController.strings"; sourceTree = "<group>"; };
-		BCFA274B23D2EF70002DD197 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SeconfViewController.strings; sourceTree = "<group>"; };
+		BCFA275323D2F7F0002DD197 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SeconfViewController.strings; sourceTree = "<group>"; };
+		BCFA275523D2F7F7002DD197 /* fr-CA */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-CA"; path = "fr-CA.lproj/SeconfViewController.strings"; sourceTree = "<group>"; };
+		BCFA275723D2F801002DD197 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/SeconfViewController.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -190,9 +190,9 @@
 			isa = PBXVariantGroup;
 			children = (
 				BCFA272A23D2E001002DD197 /* Base */,
-				BCFA274723D2EF5C002DD197 /* hi */,
-				BCFA274923D2EF6B002DD197 /* fr-CA */,
-				BCFA274B23D2EF70002DD197 /* en */,
+				BCFA275323D2F7F0002DD197 /* en */,
+				BCFA275523D2F7F7002DD197 /* fr-CA */,
+				BCFA275723D2F801002DD197 /* hi */,
 			);
 			name = SeconfViewController.xib;
 			sourceTree = "<group>";
