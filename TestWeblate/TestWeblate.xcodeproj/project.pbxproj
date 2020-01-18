@@ -30,12 +30,12 @@
 		BCFA272423D2DF1F002DD197 /* fr-CA */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-CA"; path = "fr-CA.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
 		BCFA272523D2DFCD002DD197 /* SeconfViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeconfViewController.swift; sourceTree = "<group>"; };
 		BCFA272A23D2E001002DD197 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SeconfViewController.xib; sourceTree = "<group>"; };
-		BCFA272D23D2E008002DD197 /* fr-CA */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-CA"; path = "fr-CA.lproj/SeconfViewController.strings"; sourceTree = "<group>"; };
-		BCFA272F23D2E00A002DD197 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/SeconfViewController.strings; sourceTree = "<group>"; };
-		BCFA273123D2E00B002DD197 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SeconfViewController.strings; sourceTree = "<group>"; };
 		BCFA274123D2E332002DD197 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/Main.strings; sourceTree = "<group>"; };
 		BCFA274323D2E36F002DD197 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		BCFA274523D2E372002DD197 /* fr-CA */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-CA"; path = "fr-CA.lproj/Main.strings"; sourceTree = "<group>"; };
+		BCFA274723D2EF5C002DD197 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/SeconfViewController.strings; sourceTree = "<group>"; };
+		BCFA274923D2EF6B002DD197 /* fr-CA */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-CA"; path = "fr-CA.lproj/SeconfViewController.strings"; sourceTree = "<group>"; };
+		BCFA274B23D2EF70002DD197 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/SeconfViewController.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -190,9 +190,9 @@
 			isa = PBXVariantGroup;
 			children = (
 				BCFA272A23D2E001002DD197 /* Base */,
-				BCFA272D23D2E008002DD197 /* fr-CA */,
-				BCFA272F23D2E00A002DD197 /* hi */,
-				BCFA273123D2E00B002DD197 /* en */,
+				BCFA274723D2EF5C002DD197 /* hi */,
+				BCFA274923D2EF6B002DD197 /* fr-CA */,
+				BCFA274B23D2EF70002DD197 /* en */,
 			);
 			name = SeconfViewController.xib;
 			sourceTree = "<group>";
