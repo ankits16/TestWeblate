@@ -1,9 +1,6 @@
-
 /* Class = "UILabel"; text = "ok"; ObjectID = "01Q-P1-lOR"; */
-"01Q-P1-lOR.text" = "ok";
-
+"01Q-P1-lOR.text" = "ठीक है";
 /* Class = "UILabel"; text = "Friend"; ObjectID = "CUR-02-IUt"; */
-"CUR-02-IUt.text" = "Friend";
-
+"CUR-02-IUt.text" = "दोस्त";
 /* Class = "UILabel"; text = "Third"; ObjectID = "yqC-cd-imh"; */
-"yqC-cd-imh.text" = "Third";
+"yqC-cd-imh.text" = "तीसरा";
