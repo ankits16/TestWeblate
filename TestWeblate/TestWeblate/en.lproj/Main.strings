@@ -2,6 +2,9 @@
 /* Class = "UIButton"; normalTitle = "World"; ObjectID = "Cx9-yQ-Pes"; */
 "Cx9-yQ-Pes.normalTitle" = "World";
 
+/* Class = "UIButton"; normalTitle = "Again"; ObjectID = "FiQ-8d-O0r"; */
+"FiQ-8d-O0r.normalTitle" = "Again";
+
 /* Class = "UIButton"; normalTitle = "Updated"; ObjectID = "S9F-Mc-tcF"; */
 "S9F-Mc-tcF.normalTitle" = "Updated";
 
